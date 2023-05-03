@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.17;
 
-import {MySubStruct} from "dep-core/lib/MyStruct.sol";
+import {MySubStruct} from "dep-types/lib/MyStruct.sol";
 
 library MySubStructLib {
     function withA(

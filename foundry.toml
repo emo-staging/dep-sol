@@ -2,6 +2,6 @@
 src = "src"
 out = "out"
 libs = ["lib"]
-remappings = ['dep-core/=lib/dep-core/src/']
+remappings = ['dep-types/=lib/dep-types/src/']
 
 # See more config options https://github.com/foundry-rs/foundry/tree/master/config
