@@ -3,7 +3,7 @@ pragma solidity ^0.8.17;
 
 import {MyStruct, MySubStruct} from "dep-core/lib/MyStruct.sol";
 
-library MyStrutLib {
+library MyStructLib {
     function withA(
         MyStruct memory self,
         uint256 a
